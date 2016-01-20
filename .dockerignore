@@ -1,0 +1,15 @@
+.*~$
+*.pyc
+*.mo
+dist
+build
+modoboa.egg-info
+doc/.build
+doc/.static
+doc/.templates
+DEV
+.idea
+.ropeproject
+modoboa.iml
+Dockerfile
+.dockerignore
